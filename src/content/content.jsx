@@ -97,9 +97,8 @@ const content = {
       miniTag: "ADVOGADO EM BOA VISTA - RR",
       title: (
         <h1 className="mb-[16px]">
-          Advogado e Servidor Federal,
-          <span className="text-primary"> experiência e confiança </span> ao seu
-          lado
+          Mais de uma década
+          <span className="text-primary"> cuidando </span> do seu direito
         </h1>
       ),
       subtitle:
