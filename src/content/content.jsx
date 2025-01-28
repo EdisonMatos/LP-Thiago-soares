@@ -191,7 +191,7 @@ const content = {
         buttonLabelModal: "Fale Conosco",
         buttonLabel: "Saiba Mais",
       },
-      card2: {
+      card4: {
         img: featuresImg2,
         title: "Direito do Consumidor",
         subtitle: "Defenda seus direitos contra abusos e práticas ilegais.",
@@ -256,7 +256,7 @@ const content = {
         buttonLabelModal: "Fale Conosco",
         buttonLabel: "Saiba Mais",
       },
-      card4: {
+      card2: {
         img: featuresImg4,
         title: "Direito Empresarial, Tributário e Imobiliário",
         subtitle: "Consultoria completa para sua empresa e patrimônio.",
@@ -379,9 +379,10 @@ const content = {
         "De servidor a advogado, sempre em busca de justiça e ética no Direito.",
       paragraph: (
         <div>
-          Minha jornada no Direito começou em 2009, quando fui aprovado para o
-          cargo de servidor no Tribunal, onde tive a oportunidade de aprender
-          sobre o funcionamento da justiça e do sistema jurídico de perto.
+          Minha jornada no Direito começou em 2009, quando tive a oportunidade
+          de trabalhar como Assessor Jurídico de juiz no Tribunal de Justiça do
+          Estado de Roraima, e aqui tive a chance de aprender sobre o
+          funcionamento da justiça e do sistema jurídico de perto.
           <br />
           Durante esse período, percebi que o que realmente me motivava era a
           prática da advocacia, o contato direto com as pessoas e a chance de
@@ -391,9 +392,10 @@ const content = {
       buttonModalLabelAbout: "Continuar lendo",
       modal: (
         <p>
-          Minha jornada no Direito começou em 2009, quando fui aprovado para o
-          cargo de servidor no Tribunal, onde tive a oportunidade de aprender
-          sobre o funcionamento da justiça e do sistema jurídico de perto.
+          Minha jornada no Direito começou em 2009, quando tive a oportunidade
+          de trabalhar como Assessor Jurídico de juiz no Tribunal de Justiça do
+          Estado de Roraima, e aqui tive a chance de aprender sobre o
+          funcionamento da justiça e do sistema jurídico de perto.
           <br />
           <br />
           Durante esse período, percebi que o que realmente me motivava era a
